@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Courier New';
+    color:beige;
+
+    position: static;
+}
+
+#text {
+    font-family: 'Courier New';
+    font-size: 25px;
+    color:burlywood;
+
+    position: fixed;
+    top: 55px;
+    left: 374px;
+}
+
+#result #text {
+    top: 60px;
+    left: 415px;
+}
+
+#roll-dice-button {
+    font-family: 'Courier New';
+    font-size: 25px;
+    background-color: burlywood;
+
+    padding: 35px;
+
+    position:fixed;
+    right: 20px;
+    left: 20px;
+}
